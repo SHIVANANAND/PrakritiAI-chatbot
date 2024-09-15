@@ -98,7 +98,7 @@ with st.sidebar:
         }
     </style>
     
-    <a href="https://shivananandprofess.wixsite.com/shivan" target="_blank">
+    <a href="https://shivan.up.railway.app/" target="_blank">
         <i class="fa fa-briefcase" aria-hidden="true"></i>
     </a>
     <a href="https://www.linkedin.com/in/shivan-anand-" target="_blank">
